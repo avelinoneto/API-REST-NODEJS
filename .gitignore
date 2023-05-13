@@ -1,5 +1,5 @@
 # Dependencies
-
+node_modules
 # DataBase
 node_modules
 
@@ -9,3 +9,6 @@ db/*.db
 
 #Build
 .env
+
+# Build
+build
